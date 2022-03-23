@@ -40,7 +40,7 @@ btn.addEventListener("click", function(){
     
     
     
-    }, 5800);
+    }, 5100);
 })
 
 btn2.addEventListener("click", function(){
